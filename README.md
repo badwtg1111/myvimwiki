@@ -1,0 +1,4 @@
+myvimwiki
+=========
+
+my daily wiki
